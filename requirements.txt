@@ -1,4 +1,5 @@
 gym
+imageio
 numpy
 pandas
 seaborn
